@@ -1,0 +1,26 @@
+[
+  {
+    "Ticker": "ABJC",
+    "Nom": "Servair Abidjan CI",
+    "Quantité": 10,
+    "Prix_achat": 3200.0
+  },
+  {
+    "Ticker": "BOAB",
+    "Nom": "Bank of Africa Bénin",
+    "Quantité": 3,
+    "Prix_achat": 8500.0
+  },
+  {
+    "Ticker": "ETIT",
+    "Nom": "Ecobank Transnational Inc.",
+    "Quantité": 30,
+    "Prix_achat": 40.0
+  },
+  {
+    "Ticker": "SNTS",
+    "Nom": "Sonatel",
+    "Quantité": 5,
+    "Prix_achat": 31000.0
+  }
+]
